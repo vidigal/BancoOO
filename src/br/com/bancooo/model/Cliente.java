@@ -13,7 +13,7 @@ public class Cliente {
     private String naturalidade;
     private Date nascimento;
 
-    private List<Endereco> enderecos = new ArrayList<Endereco>();
+    private List<Endereco> enderecos = new ArrayList<>();
 
     public String getCpf() {
         return cpf;
