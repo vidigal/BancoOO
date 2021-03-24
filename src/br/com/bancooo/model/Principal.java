@@ -37,7 +37,6 @@ public class Principal {
         funcionario.addCargo(cargo1);
         funcionario.addCargo(cargo2);
 
-
     }
 
 }
